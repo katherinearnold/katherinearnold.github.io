@@ -15,7 +15,8 @@ body {
 
 .profile-photo {
   width: 140px;
-  border-radius: 6px;
+  .profile-photo {
+  width: 140px;
 }
 
 h1 {
