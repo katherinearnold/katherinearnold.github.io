@@ -1,3 +1,12 @@
-I'm a MA student in the UBC Department of Linguisitics. I'm broadly interested in bi/mutlilingual phonetics and phonology and how language learners develop new phonologies. 
-![vancouver_trees](https://github.com/user-attachments/assets/424d2b16-e9e4-4f1e-9791-712bca99a88f)
-^Grove near LING department
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Katherine Arnold</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>I'm a MA student in the UBC Department of Linguisitics. I hold a BA in Linguistics and Applied Linguistics & Multilingualism (double major) from UC Santa Cruz, where I worked on bilingual speech perception and production.  </h1>
+  <p>Software Developer</p>
+  <p>Welcome to my personal website.</p>
+</body>
+</html>
