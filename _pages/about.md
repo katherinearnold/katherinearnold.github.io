@@ -19,8 +19,8 @@ I'm a MA student in the UBC Department of Linguistics. I hold a BA in Linguistic
 </ul>
 
 
-<h3>Broad Research Interests</h3>
-My undergraduate honors thesis investigated how lanugage instruction and experience influenced the formation of novel phonological categories. See [this poster].
+<h3>Projects</h3>
+My undergraduate honors thesis investigated how lanugage instruction and experience influenced the formation of novel phonological categories. See [this poster](https://katherinearnold.github.io/files/Arnold LURC 2025 Poster.pdf). 
 
 <h2>Contact</h2>
 <p>Email: karnol03[AT]student[DOT]ubc[DOT]ca</p>
