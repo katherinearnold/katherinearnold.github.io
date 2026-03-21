@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /projects/
+author_profile: true
+---
+
 <h1>Projects</h1>
 With Dr. Mark Amengual and Dr. Gabriella Notarianni-Burk, I am investigating L2 production of Italian geminate consonants. We are analyzing the acquisition of both contrastive (lexical) and noncontrastive (syntactic, raddoppiamento sintattico) geminates and the potential differences in acquisition trajectory between these types. 
 
