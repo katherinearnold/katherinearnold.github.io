@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-I'm a MA student in the UBC Department of Linguistics. My research focuses on the mental representations of bilinguals, with a particular emphasis on how a third language (L3) influences speech perception and processing. I am also broadly interested in the sociophonetic landscape of Italian _dialetti_, and in how prosodic cues interact with phonological contrast. I hold a BA in Linguistics and a BA Applied Linguistics & Multilingualism from UC Santa Cruz, where I conducted research on bilingual speech perception and production.
+I'm a MA student in the UBC Department of Linguistics. My research focuses on the mental representations of bilinguals, with a particular emphasis on how a third language (L3) influences speech perception and processing. I am also broadly interested in the sociophonetic landscape of Italian dialetti, and in how prosodic cues interact with phonological contrast. I hold a BA in Linguistics and a BA Applied Linguistics & Multilingualism from UC Santa Cruz, where I conducted research on bilingual speech perception and production.
 </p>
 
 <h2>Broad Research Interests</h2>
