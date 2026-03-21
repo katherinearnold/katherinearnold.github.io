@@ -12,4 +12,4 @@ You can reach me at:
 
 Feel free to get in touch!
 
-It is also possible to reach me via promises of (a) [knitting time](https://www.ravelry.com/people/katiearnold23) or (b) a game of [briscola](https://www.bulgnais.com/TerminiBriscola.pdf). 
+It is also possible to reach me via promises of [knitting time](https://www.ravelry.com/people/katiearnold23) or a game of [briscola](https://www.bulgnais.com/TerminiBriscola.pdf). 
