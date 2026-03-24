@@ -7,7 +7,7 @@ author_profile: true
 
 You can reach me at:
 
-- Email: karnol03[AT]student[DOT]ubc[DOT]ca
+- Email: karnol03[æt]student[dɑt]ubc[dɑt]ca
 
 Feel free to get in touch!
 
