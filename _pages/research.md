@@ -13,7 +13,7 @@ Currently, I am investigating the interaction between final lengthening and phon
 </ul>
 With Dr. Mark Amengual and Dr. Gabriella Notarianni-Burk, I am investigating L2 production of Italian geminate consonants. We are analyzing the acquisition of both contrastive (lexical) and noncontrastive (syntactic, raddoppiamento sintattico) geminates and the potential differences in acquisition trajectory between these two types. 
 
-<h3>L2 Geminate Perception</h3>
+<h4>L2 Geminate Perception</h4>
 </ul>
 My undergraduate honors thesis sought to determine how lanugage instruction and experience influenced the formation of novel phonological categories. See [this poster](https://katherinearnold.github.io/files/Arnold LURC 2025 Poster.pdf).
 </ul>
