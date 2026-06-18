@@ -16,6 +16,6 @@ With Dr. Mark Amengual and Dr. Gabriella Notarianni-Burk, I am investigating L2 
 </p>
 
 <p>
-Also, My undergraduate honors thesis sought to determine how lanugage instruction and experience influence the formation of novel phonological categories. See <a href="https://katherinearnold.github.io/files/Arnold%20LURC%202025%20Poster.pdf">this poster</a>.
+Also, my undergraduate honors thesis sought to determine how lanugage instruction and experience influence the formation of novel phonological categories. See <a href="https://katherinearnold.github.io/files/Arnold%20LURC%202025%20Poster.pdf">this poster</a>.
 </p>
 
