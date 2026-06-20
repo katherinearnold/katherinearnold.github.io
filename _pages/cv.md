@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](https://katherinearnold.github.io/files/ArnoldCV_June2026.pdf)
+You can find my CV [here](https://katherinearnold.github.io/files/ArnoldCV_20June2026.pdf)
