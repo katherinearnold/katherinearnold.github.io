@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Italian dialects</h2>
+<h2>Regional Languages of Italy</h2>
 <p>
 Currently, I am investigating the interaction between final lengthening and phonemic vowel lenth in western varieties of Lombard, a language traditionally spoken in the Lombardy and Piedmont regions of Italy. These Western Lombard varieties are particularly interesting as vowel length constrasts are restricted to the word-final position. 
 </p>
